@@ -1,3 +1,8 @@
+<p align="center">
+  <img alt="Beautysalon" src=".github/beautysalon" width="100%">
+</p>
+
+
 ## Projeto
 - Beautysalon é uma página web em que as pessoas podem navegar pelo website de uma empresa de salão.
 - Projeto desenvolvido durante a NLW da trilha Origin.
